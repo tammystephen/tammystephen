@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tammystephen
-- 👀 I’m interested in becoming a Web Developer.
+- 👀 I’m interested in becoming a Fullstack Web Developer.
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on with other Web Developers like me.
 - 📫 How to reach me tamunoemistephen@gmail.com
